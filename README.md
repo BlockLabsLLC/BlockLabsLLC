@@ -49,6 +49,8 @@
   </tr>
 </table>
 
+<img align="left" src="https://github.com/BlockLabsLLC/files/blob/main/team1.jpg"  width="480px">
+<img align="left" src="https://github.com/BlockLabsLLC/files/blob/main/team2.jpg"  width="480px">
 
 
 
