@@ -10,6 +10,10 @@
   <img src="https://github.com/BlockLabsLLC/files/blob/main/banner.jpg">
 </p>
 
+# Languages and Tools:
+[![My Skills](https://skills.thijs.gg/icons?i=c,java,kotlin,nodejs,figma,git,py,js,mongodb&theme=dark)](https://skills.thijs.gg)
+
+
 # CHECK OUT OUR RECENT PROJECTS!
 <table>
   <tr>
@@ -60,7 +64,11 @@
 <img align="left" src="https://github.com/BlockLabsLLC/files/blob/main/team7.jpg" >
 
 
- 
+ ---
+![Profile views](https://gpvc.arturio.dev/BlockLabsLLC)</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlockLabsLLC&show_icons=true) </br>
+![GitHub metrics](https://metrics.lecoq.io/BlockLabsLLC)  
+
 
 
 
